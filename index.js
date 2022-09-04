@@ -19,8 +19,12 @@ else if(randomNumber2>randomNumber1){
 }
 else{
     document.querySelector("h1").innerHTML = " Draw";
+<<<<<<< HEAD
 }
 
 function refreshPage() {
     window.location.reload();
   } 
+=======
+}
+>>>>>>> 5431683c32dd71a82ece2b6fd1fe0d5de9416905
