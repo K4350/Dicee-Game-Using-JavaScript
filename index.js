@@ -24,7 +24,4 @@ else{
 
 function refreshPage() {
     window.location.reload();
-  } 
-=======
 }
->>>>>>> 5431683c32dd71a82ece2b6fd1fe0d5de9416905
